@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="9lt6pKXcOXOacjMz8fyF">
-    <mxGraphModel>
+    <mxGraphModel dx="1406" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="i4-VJNzEnyivnLVhnoJc-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Marketing" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i4-VJNzEnyivnLVhnoJc-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Product" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="i4-VJNzEnyivnLVhnoJc-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="竞品研究" vertex="1">
+          <mxGeometry height="40" width="120" x="280" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i4-VJNzEnyivnLVhnoJc-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="研究三个主流应用产品或者场景" vertex="1">
+          <mxGeometry height="40" width="240" x="440" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i4-VJNzEnyivnLVhnoJc-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="相关产品的指标" vertex="1">
+          <mxGeometry height="40" width="160" x="720" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i4-VJNzEnyivnLVhnoJc-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="选取并细化产品指标" vertex="1">
+          <mxGeometry height="40" width="320" x="280" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="i4-VJNzEnyivnLVhnoJc-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Architecture" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="i4-VJNzEnyivnLVhnoJc-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="定义整体架构，分解整体产品电路结构，生成架构图" vertex="1">
+          <mxGeometry height="40" width="320" x="280" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="i4-VJNzEnyivnLVhnoJc-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DE" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="i4-VJNzEnyivnLVhnoJc-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="uArch+生成IP+SOC集成" vertex="1">
+          <mxGeometry height="40" width="320" x="280" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="i4-VJNzEnyivnLVhnoJc-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DV" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="i4-VJNzEnyivnLVhnoJc-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="冒烟即可" vertex="1">
+          <mxGeometry height="40" width="160" x="280" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="i4-VJNzEnyivnLVhnoJc-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SDC/CDC/Lint" vertex="1">
+          <mxGeometry height="40" width="160" x="640" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="i4-VJNzEnyivnLVhnoJc-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SW" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="i4-VJNzEnyivnLVhnoJc-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CPU+NPU软件" vertex="1">
+          <mxGeometry height="40" width="160" x="280" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="i4-VJNzEnyivnLVhnoJc-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="重点是NPU的软件部分架构" vertex="1">
+          <mxGeometry height="40" width="240" x="480" y="480" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
