@@ -45,9 +45,6 @@
         <mxCell id="i4-VJNzEnyivnLVhnoJc-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="相关产品的指标" vertex="1">
           <mxGeometry height="40" width="160" x="720" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="i4-VJNzEnyivnLVhnoJc-28" edge="1" parent="1" source="i4-VJNzEnyivnLVhnoJc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="i4-VJNzEnyivnLVhnoJc-8" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="i4-VJNzEnyivnLVhnoJc-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="选取并细化产品指标" vertex="1">
           <mxGeometry height="40" width="320" x="280" y="160" as="geometry" />
         </mxCell>
@@ -60,11 +57,8 @@
         <mxCell id="i4-VJNzEnyivnLVhnoJc-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Architecture" vertex="1">
           <mxGeometry height="40" width="120" x="120" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="i4-VJNzEnyivnLVhnoJc-29" edge="1" parent="1" source="i4-VJNzEnyivnLVhnoJc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="i4-VJNzEnyivnLVhnoJc-10" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="i4-VJNzEnyivnLVhnoJc-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="定义整体架构，分解整体产品电路结构，生成架构图" vertex="1">
-          <mxGeometry height="40" width="320" x="280" y="240" as="geometry" />
+        <mxCell id="i4-VJNzEnyivnLVhnoJc-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="定义整体架构，分解整体产品电路结构，生成架构图，IP选型" vertex="1">
+          <mxGeometry height="40" width="400" x="280" y="240" as="geometry" />
         </mxCell>
         <mxCell id="i4-VJNzEnyivnLVhnoJc-20" edge="1" parent="1" source="i4-VJNzEnyivnLVhnoJc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="i4-VJNzEnyivnLVhnoJc-11" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -76,9 +70,6 @@
           <mxGeometry height="40" width="120" x="120" y="320" as="geometry" />
         </mxCell>
         <mxCell id="i4-VJNzEnyivnLVhnoJc-32" edge="1" parent="1" source="i4-VJNzEnyivnLVhnoJc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="i4-VJNzEnyivnLVhnoJc-13" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="i4-VJNzEnyivnLVhnoJc-33" edge="1" parent="1" source="i4-VJNzEnyivnLVhnoJc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="i4-VJNzEnyivnLVhnoJc-12" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i4-VJNzEnyivnLVhnoJc-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="uArch+生成IP+SOC集成" vertex="1">
